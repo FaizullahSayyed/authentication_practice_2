@@ -1,0 +1,31 @@
+.content-container {
+  text-align: center;
+}
+
+.content-image {
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.content-paragraph {
+  margin: 10px;
+}
+
+.home-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.home-button {
+  width: 250px;
+  height: 30px;
+  border: 0;
+  border-radius: 7px;
+  font-weight: 900;
+  color: #ffffff;
+  outline: none;
+  cursor: pointer;
+  background-color: #0967d2;
+}
